@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zoey is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://zoey.com/
+Zoey provides a B2B ecommerce platform for wholesale distributors, enabling businesses to manage inventory, orders, and sales across multiple channels. The platform integrates with major accounting and ERP systems like QuickBooks, NetSuite, and Shopify, offering automated billing, data import/export, and robust order management. Zoey emphasizes security, with recent updates protecting against newly disclosed vulnerabilities, and supports AI integration via llms.txt to enhance store understanding.
+
+**Areas:** Company · B2B · Ecommerce · Wholesale · Integration
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://zoey.com/)
+- [Documentation](https://welcome.zoey.com/docs)
+- [Getting started](https://welcome.zoey.com/docs/getting-started)
+- [Pricing](https://www.zoey.com/pricing)
+- [Support](https://support.zoey.com/)
+- [Blog](https://www.zoey.com/blog/)
+- [Security](https://www.zoey.com/security/)
+- [Privacy policy](https://www.zoey.com/privacy-policy/)
+- [Status](https://status.zoey.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/zoey/](https://apis.io/providers/zoey/).
